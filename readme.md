@@ -16,4 +16,4 @@ Salidas:
 
 El programa genera un archivo Excel llamado "resultados.xlsx" que contiene los resultados de la evaluación de las contraseñas, incluyendo la contraseña ingresada, la contraseña codificada, la entropía de la contraseña codificada, la probabilidad de descifrado, y la dureza determinada por la IA.
 
-Es importante tener los archivos de datos "dataset_debiles.xlsx" y "dataset_entrenamiento.xlsx" en la ubicación especificada en el código para que el programa funcione correctamente. Además, el archivo de salida "resultados.xlsx" se guarda en la ruta "D:\Capstone0\".
+Es importante tener los archivos de datos "dataset_debiles.xlsx" y "dataset_entrenamiento.xlsx" en la ubicación especificada en el código para que el programa funcione correctamente. Además, el archivo de salida "resultados.xlsx" se guarda en la ruta "D:\Capstone0\". Nota: Estas rutas pueden cambiarse dentro del código a una especificada por el usuario y que sea existente en su ordenador.
