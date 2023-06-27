@@ -89,7 +89,7 @@ def entrenar_discriminador(discriminador, dataset_entrenamiento):
 
     for _, row in dataset_entrenamiento.iterrows():
         contrasena = row['password']
-        etiqueta = row['strenght']
+        etiqueta = row['strength']
 
         contrasena = preprocess(contrasena)
         arreglo_caracteristicas = convertir_a_arreglo_de_caracteristicas(contrasena)
